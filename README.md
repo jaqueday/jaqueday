@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on the basics on Software Developement
+- 🌱 I’m currently learning Java and Python
+
 <!--
 **jaqueday/jaqueday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
